@@ -4,8 +4,7 @@ The objective of creating this app is to make the app responsive to both portrai
 
 ## Portrait
 
-[Uploading Screenshot 2021-08-25 at 8.29.44 PM.png…]()
-
+<img width="334" alt="Screenshot 2021-08-25 at 8 29 44 PM" src="https://user-images.githubusercontent.com/56184525/130815182-fa8de714-2a7f-4c82-9552-83e7b6f92165.png">
 
 ## Landscape
 
